@@ -1,20 +1,20 @@
-# JavaScript Learning Journey 🚀
+# 🤖 JavaScript Greeting Bot
 
-This repository documents my process of learning JavaScript from scratch through consistent practice and small coding exercises.
+A simple console-based greeting bot created as part of the freeCodeCamp JavaScript curriculum.
 
-It contains simple projects, experiments, and challenges that help me build a strong understanding of JavaScript fundamentals.
+This project focuses on practicing JavaScript fundamentals such as variables, string concatenation, reassignment, and console output.
 
-## 📚 What this repo includes
+## 🚀 Features
 
-- JavaScript basics and syntax practice
-- Small coding exercises
-- Problem-solving tasks
-- Mini projects from learning platforms
+- Console greeting messages
+- Variable creation and reassignment
+- Dynamic sentence generation
+- String concatenation with variables
 
-## 🎯 Goal
+## 🛠️ Built With
 
-The goal of this repository is to develop solid programming fundamentals in JavaScript through hands-on practice and continuous improvement.
+- JavaScript (ES6)
 
-## 📌 Status
+## 📌 Purpose
 
-🟢 In progress — new exercises and projects are added regularly.
+The goal of this project was to build a basic interactive bot while strengthening core JavaScript skills through hands-on practice.
