@@ -17,6 +17,7 @@ I’m currently learning JavaScript from scratch, focusing on understanding core
 |---|---|
 | JavaScript Greeting Bot | Friendly and chatty greeting bot |
 | JavaScript Trivia Bot | Little bot talking about programming languages |
+| JavaScript Sentence Maker | Generates stories using JavaScript variables |
 | Coming soon... | New JavaScript projects will be added regularly 👀 |
 
 ## 🎯 Goal
