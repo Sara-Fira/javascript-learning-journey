@@ -1,0 +1,11 @@
+// Fix the function below
+
+function calcSpeed(distance, timeTaken) {
+
+  let speed = distance / timeTaken;
+
+  return speed;
+}
+
+console.log(calcSpeed(1000, 120));
+console.log(calcSpeed(1200, 160));

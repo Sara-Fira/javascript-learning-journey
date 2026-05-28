@@ -1,0 +1,17 @@
+function getSalaryWithBonus() {
+  // Write your code below this line
+
+  const HOURLY_RATE = 25.00;
+  let hoursWorked = 164;
+
+  let totalPay = hoursWorked * HOURLY_RATE;
+
+  const BONUS = 2.5;
+  totalPay *= BONUS;
+
+  return totalPay;
+
+  // Write your code above this line
+}
+
+console.log(getSalaryWithBonus());

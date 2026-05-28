@@ -1,0 +1,14 @@
+function checkEvenOdd(num) {
+  let message = "";
+  // Write code below this line
+    if (num % 2 === 0) {
+        message = "The number is even"
+    } if (num % 2 !== 0) {
+        message = "The number is odd"
+    }
+      
+  // Write code above this line
+  return message;
+}
+
+console.log(checkEvenOdd(21));

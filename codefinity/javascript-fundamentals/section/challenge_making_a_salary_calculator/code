@@ -1,0 +1,14 @@
+function getSalaryMessage() {
+  // Write your code below this line
+
+  const HOURLY_RATE = 25.00;
+  let hoursWorked = 164;
+
+  let totalPay = HOURLY_RATE * hoursWorked;
+
+  return "The calculated total payment is: " + totalPay;
+
+  // Write your code above this line
+}
+
+console.log(getSalaryMessage());

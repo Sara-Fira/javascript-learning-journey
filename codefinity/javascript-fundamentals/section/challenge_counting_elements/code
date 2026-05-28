@@ -1,0 +1,25 @@
+function describeFruitBasket() {
+  let fruitBasket = [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Mango",
+    "Grapes",
+    "Pineapple"
+  ];
+
+  // Write your code below this line
+let numberOfFruits = fruitBasket.length;
+
+if (numberOfFruits <= 3) {
+    return "We have a small fruit basket with " + numberOfFruits + " fruits!"
+} else {
+    return "We have a big fruit basket with " + numberOfFruits + " fruits!"
+}
+
+
+  // Write your code above this line
+}
+
+// Testing
+console.log(describeFruitBasket());

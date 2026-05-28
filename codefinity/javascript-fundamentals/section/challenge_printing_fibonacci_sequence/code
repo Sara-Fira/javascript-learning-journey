@@ -1,0 +1,23 @@
+function generateFibonacci() {
+  let a = 0;
+  let b = 1;
+  let numTerms = 10;
+
+  let sequence = [];
+
+  // Write your code below this line
+
+  while (numTerms > 0) {
+  sequence.push(a);
+  let nextTerm = a + b
+  a = b; b = nextTerm;
+  numTerms--
+
+
+  }
+  // Write your code above this line
+  return sequence;
+}
+
+// Testing
+console.log(generateFibonacci());

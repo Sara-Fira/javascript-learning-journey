@@ -1,0 +1,5 @@
+console.log("Starting the program.");
+console.log("This line is fine.");
+/*console.log("This line has a missing closing parenthesis";
+console.log(This line is missing a quotation mark");*/
+console.log("Ending the program.");

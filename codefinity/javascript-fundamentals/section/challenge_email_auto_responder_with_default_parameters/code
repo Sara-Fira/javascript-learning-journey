@@ -1,0 +1,13 @@
+// Write your function below this line
+function generateEmailResponse(name = "Valued Customer", issue = "a general inquiry", responseTime = "24 hours") {
+  return (
+    "Dear " + name + ",\n\n" +
+    "Thank you for reaching out regarding " + issue + ".\n" +
+    "Our support team will review your request and get back to you within " + responseTime + ".\n\n" +
+    "Best regards,\n" +
+    "Customer Support Team"
+  );
+}
+
+// Testing
+console.log(generateEmailResponse());

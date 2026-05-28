@@ -1,0 +1,9 @@
+function getTrapeziumArea() {
+  // Write your code below this line
+
+  return ((13 + 21) * 10) / 2 ;
+
+  // Write your code above this line
+}
+
+console.log(getTrapeziumArea());

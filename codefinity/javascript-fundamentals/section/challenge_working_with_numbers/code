@@ -1,0 +1,9 @@
+function getTotalRevenue() {
+  // Write your code below this line
+
+  return ((5*17) * 27);
+
+  // Write your code above this line
+}
+
+console.log(getTotalRevenue());

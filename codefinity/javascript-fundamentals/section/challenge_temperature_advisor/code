@@ -1,0 +1,17 @@
+function getTemperatureAdvice() {
+  // Write your code below this line
+
+  let temperature = 30;
+  let message = "";
+
+  if (temperature >= 25) {
+    message = "It is warm outside. Wear light clothes!";
+  } else {
+    message = "It is cold outside. Wear a jacket!";
+  }
+
+  // Write your code above this line
+  return message;
+}
+
+console.log(getTemperatureAdvice());

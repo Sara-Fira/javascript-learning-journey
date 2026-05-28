@@ -1,0 +1,14 @@
+function getProductAvailability() {
+  // Declare a boolean variable under this line
+
+  const isAvailable = true;
+
+  // This code is just a demo, you will learn about conditional statements in the next section
+  if (isAvailable) {
+    return "The product is available.";
+  } else {
+    return "The product is out of stock.";
+  }
+}
+
+console.log(getProductAvailability());

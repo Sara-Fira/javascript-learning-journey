@@ -1,0 +1,2 @@
+//Area of a Trapezium = (a + b) * h / 2
+console.log("The area of a trapezium is equal to", (13 + 21) * 10 / 2, "units.");

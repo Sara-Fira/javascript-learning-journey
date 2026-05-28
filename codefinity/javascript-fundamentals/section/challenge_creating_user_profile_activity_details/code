@@ -1,0 +1,28 @@
+function getUserProfileMessage() {
+  // Write your code below this line
+
+  const DEFAULT_COUNTRY = "United States";
+  let username = "John Doe";
+  let age = 30;
+  let country = DEFAULT_COUNTRY;
+  let isSubscribed = true;
+  let loginCount = 5;
+  let loginReward = 250;
+
+  loginCount++;
+  loginReward += 50;
+
+  let welcomeMessage =
+    username +
+    " is " +
+    age +
+    " years old and has logged in " +
+    loginCount +
+    " times. The Login Reward balance is " +
+    loginReward;
+
+  // Write your code above this line
+  return welcomeMessage;
+}
+
+console.log(getUserProfileMessage());

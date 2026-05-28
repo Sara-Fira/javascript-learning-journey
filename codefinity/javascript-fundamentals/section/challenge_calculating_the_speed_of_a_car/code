@@ -1,0 +1,11 @@
+// Write your function below this line
+function calcSpeed() {
+  let distance = 1000;
+  let timeTaken = 120;
+
+  let speed = distance / timeTaken;
+
+  return speed;
+}
+
+console.log(calcSpeed());

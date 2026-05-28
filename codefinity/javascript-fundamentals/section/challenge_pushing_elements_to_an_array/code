@@ -1,0 +1,13 @@
+function updateShoppingList() {
+  let shoppingList = ["Milk", "Eggs", "Bread"];
+
+  // Write your code below this line
+
+shoppingList.push("Butter", "Cheese");
+
+  // Write your code above this line
+  return shoppingList;
+}
+
+// Testing
+console.log(updateShoppingList());

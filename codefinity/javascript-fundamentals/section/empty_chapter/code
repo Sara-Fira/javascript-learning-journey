@@ -1,0 +1,22 @@
+function getGrade(score) {
+  if (score >= 90) return "Grade: A";
+  else if (score >= 80) {
+    return "Grade: B";
+  } else if (score >= 70) {
+    return "Grade: C";
+  } else if (score >= 60) {
+    return "Grade: D";
+  } else {
+    return "Grade: F";
+  }
+}
+
+// Write your function below this line
+function showStudentData(name, age, score) {
+  let grade = getGrade(score);
+
+  return "Name: " + name + ", Age: " + age + ", " + grade;
+}
+
+// Testing
+console.log(showStudentData("Alice", 22, 97));

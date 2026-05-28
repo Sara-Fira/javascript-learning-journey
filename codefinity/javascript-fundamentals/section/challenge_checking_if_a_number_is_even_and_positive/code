@@ -1,0 +1,17 @@
+function checkNumberCriteria() {
+  // Write your code below this line
+
+  let num = 8;
+  let message = "";
+
+  if (num > 0 && num % 2 === 0) {
+    message = "The number is positive and even.";
+  } else {
+    message = "The number does not meet the criteria.";
+  }
+
+  // Write your code above this line
+  return message;
+}
+
+console.log(checkNumberCriteria());

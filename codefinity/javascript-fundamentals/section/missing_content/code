@@ -1,0 +1,16 @@
+function generateEvenNumbers() {
+  let results = [];
+
+  // Write your code below this line
+
+for (let i = 1; i <= 10; i++) {
+    results.push(i*2)
+}
+
+
+  // Write your code above this line
+  return results;
+}
+
+// Testing
+console.log(generateEvenNumbers());

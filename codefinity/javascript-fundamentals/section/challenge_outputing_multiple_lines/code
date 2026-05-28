@@ -1,0 +1,4 @@
+console.log('Roses are red,');
+console.log('Violets are blue,');
+console.log('Learning to code');
+console.log('Is fun to do!');

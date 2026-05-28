@@ -1,0 +1,23 @@
+function getStudentGrade() {
+  // Write your code below this line
+
+  let grade = 85;
+  let message = "";
+
+  if (grade >= 90) {
+    message = "Grade: A";
+  } else if ((grade >= 80) && (grade <= 89)) {
+    message = "Grade: B";
+  } else if ((grade >= 70) && (grade <= 79) ) {
+    message = "Grade: C";
+  } else if ((grade >= 60) && (grade <=69)) {
+    message = "Grade: D";
+  } else {
+    message = "Grade: F";
+  }
+
+  // Write your code above this line
+  return message;
+}
+
+console.log(getStudentGrade());

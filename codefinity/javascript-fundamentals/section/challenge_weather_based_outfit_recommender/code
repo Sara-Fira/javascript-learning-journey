@@ -1,0 +1,23 @@
+function getWeatherRecommendation() {
+  // Write your code below this line
+
+  let weather = "rainy";
+  let message = "";
+
+  if (weather === "sunny") {
+    message = "Wear sunglasses and a t-shirt!";
+  }
+
+  if (weather === "rainy") {
+    message = "Take an umbrella and wear a raincoat!";
+  }
+
+  if (weather === "cold") {
+    message = "Wear a warm jacket and a scarf!";
+  }
+
+  // Write your code above this line
+  return message;
+}
+
+console.log(getWeatherRecommendation());

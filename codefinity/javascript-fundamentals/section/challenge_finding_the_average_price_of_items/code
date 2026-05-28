@@ -1,0 +1,18 @@
+function calculateAveragePrice() {
+  let prices = [349, 799, 1299, 199, 549, 999, 1599, 699, 429, 299];
+
+  let totalPrice = 0;
+
+  // Write your code below this line
+
+for (let i = 0; i < prices.length; i++) {
+    totalPrice += prices[i]
+    
+}
+let averagePrice = totalPrice / prices.length;
+    return averagePrice
+  // Write your code above this line
+}
+
+// Testing
+console.log(calculateAveragePrice());
