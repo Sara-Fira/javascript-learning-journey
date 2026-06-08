@@ -2,6 +2,7 @@
 
 ## Repository Structure
 
+- `codecademy/` – exercises and small projects completed during JavaScript Course
 - `codefinity/` – exercises completed during my Codefinity learning journey
 - `free-code-camp/` – JavaScript practice projects from freeCodeCamp
 - `hyperskill-projects/` – learning projects from Hyperskill
