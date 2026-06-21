@@ -1,4 +1,4 @@
-# Codecademy Introduction to JavaScript
+# Codecademy Learn JavaScript course
 
 This folder contains beginner-level JavaScript exercises and projects completed as part of the Codecademy Introduction to JavaScript course.
 
