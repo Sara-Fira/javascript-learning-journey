@@ -1,11 +1,7 @@
-# Codecademy Learn JavaScript course
+# Codecademy JavaScript Practice
 
-This folder contains beginner-level JavaScript exercises and projects completed as part of the Codecademy Introduction to JavaScript course.
+This folder contains JavaScript exercises and small projects completed on Codecademy.
 
-The course focuses on core JavaScript fundamentals, including variables, data types, built-in methods, conditionals, functions, scope, arrays, loops, iterators, and objects.
+The materials focus on beginner JavaScript concepts such as variables, conditionals, functions, arrays, loops, iterators, and objects.
 
-## Learning Context
-
-This folder is part of my JavaScript learning journey and supports my long-term goal of building programming foundations for future QA automation.
-
-The exercises are included to document my practice, learning progress, and understanding of basic JavaScript concepts.
+This folder is part of my JavaScript learning journey and helps me build programming foundations for future QA automation.
