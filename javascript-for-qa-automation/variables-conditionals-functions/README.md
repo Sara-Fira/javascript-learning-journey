@@ -1,6 +1,5 @@
 # Session 1: Variables, Conditionals, Functions and Objects
 
-Date: 22.06.2026
 Learning path: JavaScript for QA Automation / Playwright foundations
 
 ## Goal
