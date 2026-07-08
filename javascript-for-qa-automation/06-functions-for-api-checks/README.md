@@ -29,9 +29,9 @@ const response = {
     ]
   }
 };
-```js
 
-## Practice Data
+
+## Key Takeways
 
 A function can return a check result, for example true or false.
 response.body.users gives access to the users array.
