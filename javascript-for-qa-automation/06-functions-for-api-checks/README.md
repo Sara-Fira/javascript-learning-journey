@@ -29,7 +29,9 @@ const response = {
     ]
   }
 };
-Key Takeaways
+
+## Key Takeaways
+
 A function can return a check result, for example true or false.
 response.body.users gives access to the users array.
 filter() returns matching objects.
