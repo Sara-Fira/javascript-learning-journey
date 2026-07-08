@@ -30,9 +30,7 @@ const response = {
   }
 };
 
-
-## Key Takeways
-
+## Key Takeaways
 A function can return a check result, for example true or false.
 response.body.users gives access to the users array.
 filter() returns matching objects.
@@ -40,6 +38,8 @@ map() transforms objects into another value, for example usernames.
 some() checks if at least one item matches.
 every() checks if all items match.
 Function names should describe what the function returns.
-Main Goal
+
+
+## Main Goal
 
 Practise turning simple API checks into reusable JavaScript helper functions.
