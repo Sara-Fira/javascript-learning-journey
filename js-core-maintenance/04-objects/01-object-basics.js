@@ -1,10 +1,3 @@
-# `01-object-basics.js`
-
-```js
-// JavaScript Core Maintenance
-// Session 4 — Object Basics
-// Date: 22.07.2026
-
 // Exercise 1: Access object properties
 
 const response = {
