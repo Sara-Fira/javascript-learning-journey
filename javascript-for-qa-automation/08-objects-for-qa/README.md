@@ -2,7 +2,7 @@
 
 Practical exercises covering JavaScript objects in a QA context.
 
-## Session 1 — Fundamentals
+## Session 1 — Object Fundamentals
 
 Topics:
 
@@ -22,19 +22,24 @@ Topics:
 
 - `find()`, `some()`, `every()` and `map()`
 - `Object.keys()`, `Object.values()` and `Object.entries()`
-- Object destructuring
+- Iterating through object entries
 
-Planned exercises: `08`–`12`
+Exercises: `08`–`14`
 
-## Session 3 — Copying and Combining Objects
-
+## Session 3 — Destructuring, Spread and References
 
 Topics:
 
-- Spread syntax
-- Objects passed to functions
+- Object destructuring
+- Default values and renamed variables
+- Copying and updating objects with spread syntax
+- Combining objects
+- Passing objects to functions
 - Object references
 - Final QA-focused practice
 
-Planned exercises: `13`–`16`
+Exercises: `15`–`19`
 
+## Status
+
+Completed
